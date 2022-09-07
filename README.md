@@ -14,7 +14,7 @@ Topics discussed in course:
 | 1 | September, 8 | Introduction | [slides](lectures/lecture01/Severilov2022DLAudio1.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 2 | September, 15 | Automatic Speech Recognition (ASR) | [slides](lectures/lecture02/Severilov2022DLAudio2.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 3 | September, 22 | Automatic Speech Recognition (ASR) | [slides](lectures/lecture03/Severilov2022DLAudio3.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
-| 4 | September, 29 | Key-word spottind (KWS) | [slides](lectures/lecture04/Severilov2022DLAudio4.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
+| 4 | September, 29 | Key-word spotting (KWS) | [slides](lectures/lecture04/Severilov2022DLAudio4.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 5 | October, 6 | Text to Speech (TTS) | [slides](lectures/lecture05/Severilov2022DLAudio5.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 6 | October, 13 | Voice Conversion | [slides](lectures/lecture06/Severilov2022DLAudio6.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 7 | October, 20 |  | [slides](lectures/lecture07/Severilov2022DLAudio7.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyU) |
