@@ -1,0 +1,59 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx, epsfig}
+\usepackage{amsmath,mathrsfs,amsfonts,amssymb}
+\usepackage{floatflt}
+\usepackage{epic,ecltree}
+\usepackage{mathtext}
+\usepackage{fancybox}
+\usepackage{fancyhdr}
+\usepackage{multirow}
+\usepackage{enumerate}
+\usepackage{epstopdf}
+\usepackage{multicol}
+\usepackage{algorithm}
+\usepackage[noend]{algorithmic}
+\usepackage{tikz}
+\usepackage{blindtext}
+\usetheme{default}%{Singapore}%{Warsaw}%{Warsaw}%{Darmstadt}
+\usecolortheme{default}
+
+\setbeamerfont{title}{size=\Huge}
+\setbeamertemplate{footline}[page number]{}
+
+\setbeamertemplate{section in toc}[sections numbered]
+
+
+\makeatletter
+\newcommand\HUGE{\@setfontsize\Huge{35}{40}}
+\makeatother    
+
+\setbeamerfont{title}{size=\HUGE}
+\beamertemplatenavigationsymbolsempty
+
+\input{../utils/newcommands}
+\input{../utils/title}
+
+\newcommand\myfootnote[1]{%
+  \tikz[remember picture,overlay]
+  \draw (current page.south west) +(1in + \oddsidemargin,0.5em)
+  node[anchor=south west,inner sep=0pt]{\parbox{\textwidth}{%
+      \rlap{\rule{10em}{0.4pt}}\raggedright\scriptsize \textit{#1}}};}
+
+\newcommand\myfootnotewithlink[2]{%
+  \tikz[remember picture,overlay]
+  \draw (current page.south west) +(1in + \oddsidemargin,0.5em)
+  node[anchor=south west,inner sep=0pt]{\parbox{\textwidth}{%
+      \rlap{\rule{10em}{0.4pt}}\raggedright\scriptsize\href{#1}{\textit{#2}}}};}
+      
+\AtBeginSection[]
+{
+	\begin{frame}{Outline}
+		\tableofcontents[currentsection,subsectionstyle=hide]
+	\end{frame}
+}
+\AtBeginSubsection[]{
+	\begin{frame}{Outline}
+		\tableofcontents[currentsection,currentsubsection]
+	\end{frame}
+}
