@@ -1,5 +1,5 @@
-# Deep Learning Audio Course, 2022
 ![logo](./logo.png)
+# Deep Learning Audio Course, 2022
 
 ## Description
 Topics discussed in course:
