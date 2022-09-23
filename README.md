@@ -14,7 +14,7 @@ Topics discussed in course:
 | Lecture | Date | Description | Slides | Video |
 |---------|------|-------------|--------|-------|
 | 1 | September, 15 | Introduction | [slides](lectures/lecture01/Severilov2022DLAudio1.pdf) | [video](https://www.youtube.com/watch?v=33vG2wfMIxs) |
-| 2 | September, 22 | Digital Signal Processing | [slides](lectures/lecture03/Severilov2022DLAudio2.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
+| 2 | September, 23 | Digital Signal Processing | [slides](lectures/lecture02/Severilov2022DLAudio2.pdf) | [video](https://www.youtube.com/watch?v=EW_EojFHUhk) |
 | 3 | September, 29 | Automatic Speech Recognition (ASR) | [slides](lectures/lecture03/Severilov2022DLAudio3.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 4 | October, 6 | Automatic Speech Recognition (ASR) | [slides](lectures/lecture04/Severilov2022DLAudio4.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 5 | October, 13 | Key-word spotting (KWS) | [slides](lectures/lecture05/Severilov2022DLAudio5.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
