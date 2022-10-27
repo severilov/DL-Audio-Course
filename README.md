@@ -30,6 +30,6 @@ Topics discussed in course:
 
 | Homework | Date | Deadline | Description | Link |
 |---------|------|-------------|--------|-------|
-| 1 | TBA | Nov, 3 | Nov, 17 | [notebook](homeworks/homework1/hw1.ipynb) |
-| 2 | TBA | ~Nov, 17 | Dec, 1 | [notebook](homeworks/homework2/hw2.ipynb) |
+| 1 | Nov, 3 | Nov, 17 | TBA | [notebook](homeworks/homework1/hw1.ipynb) |
+| 2 | ~Nov, 17 | Dec, 1 | TBA | [notebook](homeworks/homework2/hw2.ipynb) |
 
