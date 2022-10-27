@@ -21,7 +21,7 @@ Topics discussed in course:
 | 7 [seminar] | November, 3 | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar2.ipynb) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 8 | November, 10 | Key-word spotting (KWS) | [slides](lectures/lecture05/Severilov2022DLAudio5.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 9 | November, 17 | Text to Speech (TTS) | [slides](lectures/lecture06/Severilov2022DLAudio6.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
-| 10 [seminar] | November, 24 | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar2.ipynb) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
+| 10 [seminar] | November, 24 | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar3.ipynb) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 11 | December, 1 | Voice Conversion | [slides](lectures/lecture07/Severilov2022DLAudio7.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 
 
