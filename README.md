@@ -16,8 +16,8 @@ Topics discussed in course:
 | 1 | September, 15 | Introduction | [slides](lectures/lecture01/Severilov2022DLAudio1.pdf) | [video](https://www.youtube.com/watch?v=33vG2wfMIxs) |
 | 2 | September, 23 | Digital Signal Processing | [slides](lectures/lecture02/Severilov2022DLAudio2.pdf) | [video](https://www.youtube.com/watch?v=EW_EojFHUhk) |
 | 3 [seminar] | September, 29 | Spectrograms and the Griffin-Lim Algorithm | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar1.ipynb) | [video](https://www.youtube.com/watch?v=7m3sk_P-y-4&list=PLk4h7dmY2eYHfxOR8PO_v6nu5crh6tMG-&index=3) |
-| 4 | October, 21 | Automatic Speech Recognition 1 (ASR-1) | [slides](lectures/lecture03/Severilov2022DLAudio3.pdf) | [video](https://www.youtube.com/watch?v=kn0kyoo2fAk) |
-| 5 | October, 28 | Automatic Speech Recognition 2 (ASR-2) | [slides](lectures/lecture04/Severilov2022DLAudio4.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
+| 4 | October, 21 | Automatic Speech Recognition 1: introduction, CTC, LAS | [slides](lectures/lecture03/Severilov2022DLAudio3.pdf) | [video](https://www.youtube.com/watch?v=kn0kyoo2fAk) |
+| 5 | October, 28 | Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE | [slides](lectures/lecture04/Severilov2022DLAudio4.pdf) | [video](https://youtu.be/rcJyJ_BG2lI) |
 | 7 [seminar] | November, 3 | TBA |[notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar2.ipynb) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 8 | November, 10 | Key-word spotting (KWS) | [slides](lectures/lecture05/Severilov2022DLAudio5.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 9 | November, 17 | Text to Speech (TTS) | [slides](lectures/lecture06/Severilov2022DLAudio6.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
