@@ -19,7 +19,7 @@ Topics discussed in course:
 | 4 | October, 21 | Automatic Speech Recognition 1: introduction, CTC, LAS | [slides](lectures/lecture03/Severilov2022DLAudio3.pdf) | [video](https://www.youtube.com/watch?v=kn0kyoo2fAk) |
 | 5 | October, 28 | Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE | [slides](lectures/lecture04/Severilov2022DLAudio4.pdf) | [video](https://youtu.be/rcJyJ_BG2lI) |
 | 7 [seminar] | November, 3 | WER, CTC |[notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar2.ipynb) | [video](https://youtu.be/o4PPnEo3oEo) |
-| 8 | November, 10 | Key-word spotting (KWS) | [slides](lectures/lecture05/Severilov2022DLAudio5.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
+| 8 | November, 11 | Key-word spotting (KWS) | [slides](lectures/lecture05/Severilov2022DLAudio5.pdf) | [video](hhttps://youtu.be/UWeSgQfGcDo) |
 | 9 | November, 17 | Text to Speech (TTS) | [slides](lectures/lecture06/Severilov2022DLAudio6.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 10 [seminar] | November, 24 | TBA | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar3.ipynb) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 | 11 | December, 1 | Voice Conversion | [slides](lectures/lecture07/Severilov2022DLAudio7.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
