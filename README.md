@@ -20,7 +20,7 @@ Topics discussed in course:
 | 6 [seminar] | November, 3 | WER, CTC |[notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar2/seminar2.ipynb) | [video](https://youtu.be/o4PPnEo3oEo) |
 | 7 | November, 11 | Key-word spotting (KWS) | [slides](lectures/lecture05/Severilov2022DLAudio5.pdf) | [video](https://youtu.be/UWeSgQfGcDo) |
 | 8 | November, 22 | Text-to-speech: Tacotron, FastSpeech, Guided Attention | [slides](lectures/lecture06/Severilov2022DLAudio6.pdf) | [video](https://youtu.be/Cwd4GbtaUwo) |
-| 9 [seminar] | November, 24 | Text-to-speech: Tacotron | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar3/seminar3.ipynb) | [video]() |
+| 9 [seminar] | November, 24 | Text-to-speech: Tacotron | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar3/seminar3.ipynb) | [video](https://youtu.be/TfVjiIt5_Ds) |
 | 10 | November, 30 | Text-to-speech: WaveNet, Parallel WaveGAN, STFT Loss | [slides](lectures/lecture07/Severilov2022DLAudio7.pdf) | [video]() |
 
 
