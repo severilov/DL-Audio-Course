@@ -5,8 +5,8 @@
 Topics discussed in course:
 - Digital Signal Processing
 - Automatic Speech Recognition (ASR)
-- Text-to-Speech (TTS)
 - Key-word spotting (KWS)
+- Text-to-Speech (TTS)
 
 ## Course materials
 
@@ -21,7 +21,7 @@ Topics discussed in course:
 | 7 | November, 11 | Key-word spotting (KWS) | [slides](lectures/lecture05/Severilov2022DLAudio5.pdf) | [video](https://youtu.be/UWeSgQfGcDo) |
 | 8 | November, 22 | Text-to-speech: Tacotron, FastSpeech, Guided Attention | [slides](lectures/lecture06/Severilov2022DLAudio6.pdf) | [video](https://youtu.be/Cwd4GbtaUwo) |
 | 9 [seminar] | November, 24 | Text-to-speech: Tacotron | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar3.ipynb) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
-| 10 | November, 30 | Text-to-speech | [slides](lectures/lecture07/Severilov2022DLAudio7.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
+| 10 | November, 30 | Text-to-speech: WaveNet, Parallel WaveGAN, STFT Loss | [slides](lectures/lecture07/Severilov2022DLAudio7.pdf) | [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) |
 
 
 
