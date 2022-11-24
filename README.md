@@ -30,4 +30,4 @@ Topics discussed in course:
 
 | Homework | Date | Deadline | Description | Link |
 |---------|------|-------------|--------|-------|
-| 1 | Nov, 24 | Dec, 15 | Implement [FastSpeech](https://arxiv.org/pdf/1905.09263.pdf) | [notebook](homeworks/homework1/hw1.ipynb) |
+| 1 | Nov, 24 | Dec, 15 | Implement [FastSpeech](https://arxiv.org/pdf/1905.09263.pdf) | [description](HW1.md) |
