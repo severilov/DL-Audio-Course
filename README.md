@@ -1,5 +1,5 @@
 ![logo](./logo.png)
-# Deep Learning Audio Course, 2022
+# Deep Learning for Audio Course, Fall 2023
 
 ## Description
 Topics discussed in course:
@@ -7,26 +7,46 @@ Topics discussed in course:
 - Automatic Speech Recognition (ASR)
 - Key-word spotting (KWS)
 - Text-to-Speech (TTS)
+- Voice Conversion
+- Music Generation with NNs
+- Unsupervised learning in Audio
 
 ## Course materials
+## Materials
 
-| Lecture | Date | Description | Slides | Video |
-|---------|------|-------------|--------|-------|
-| 1 | September, 15 | Introduction | [slides](lectures/lecture01/Severilov2022DLAudio1.pdf) | [video](https://www.youtube.com/watch?v=33vG2wfMIxs) |
-| 2 | September, 23 | Digital Signal Processing | [slides](lectures/lecture02/Severilov2022DLAudio2.pdf) | [video](https://www.youtube.com/watch?v=EW_EojFHUhk) |
-| 3 [seminar] | September, 29 | Spectrograms and the Griffin-Lim Algorithm | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar1/seminar1.ipynb) | [video](https://www.youtube.com/watch?v=7m3sk_P-y-4&list=PLk4h7dmY2eYHfxOR8PO_v6nu5crh6tMG-&index=3) |
-| 4 | October, 21 | Automatic Speech Recognition 1: introduction, CTC, LAS | [slides](lectures/lecture03/Severilov2022DLAudio3.pdf) | [video](https://www.youtube.com/watch?v=kn0kyoo2fAk) |
-| 5 | October, 28 | Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE | [slides](lectures/lecture04/Severilov2022DLAudio4.pdf) | [video](https://youtu.be/rcJyJ_BG2lI) |
-| 6 [seminar] | November, 3 | WER, CTC |[notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar2/seminar2.ipynb) | [video](https://youtu.be/o4PPnEo3oEo) |
-| 7 | November, 11 | Key-word spotting (KWS) | [slides](lectures/lecture05/Severilov2022DLAudio5.pdf) | [video](https://youtu.be/UWeSgQfGcDo) |
-| 8 | November, 22 | Text-to-speech: Tacotron, FastSpeech, Guided Attention | [slides](lectures/lecture06/Severilov2022DLAudio6.pdf) | [video](https://youtu.be/Cwd4GbtaUwo) |
-| 9 [seminar] | November, 24 | Text-to-speech: Tacotron | [notebook](https://github.com/severilov/2022-DL-Audio-Course/blob/main/seminars/seminar3/seminar3.ipynb) | [video](https://youtu.be/TfVjiIt5_Ds) |
-| 10 | November, 30 | Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave) | [slides](lectures/lecture07/Severilov2022DLAudio7.pdf) | [video](https://youtu.be/mUWmCdNlg3o) |
-
+| # | Date | Description | Slides |
+|---------|------|-------------|---------|
+| 1 | September, 14 | <b>Lecture:</b> Introduction and Digital Signal Processing | [slides](lectures/lecture01_dlaudio_fall23.pdf) |
+| 2 |  | <b>Lecture:</b> Automatic Speech Recognition 1: introduction, CTC, LAS | [slides](lectures/lecture02_dlaudio_fall23.pdf) |
+| 3 |  | <b>Lecture:</b> Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE, Whisper | [slides](lectures/lecture03_dlaudio_fall23.pdf) |
+| 4 |  | <b>Lecture:</b> Key-word spotting (KWS) | [slides](lectures/lecture04_dlaudio_fall23.pdf) |
+| 5 |  | <b>Lecture:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention | [slides](lectures/lecture05_dlaudio_fall23.pdf) |
+| 6 |  | <b>Lecture:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave) | [slides](lectures/lecture06_dlaudio_fall23.pdf) |
+| 7 |  | <b>Lecture:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC | [slides](lectures/lecture07_dlaudio_fall23.pdf) |
+| 8 |  | <b>Lecture:</b> Self-supervised learning in Audio | [slides](lectures/lecture08_dlaudio_fall23.pdf) |
+| ? |  | <b>Lecture:</b> Speaker verification and identification | [slides](lectures/lecture09_dlaudio_fall23.pdf) |
+| ? |  | <b>Lecture:</b> Music Generation | [slides](lectures/lecture10_dlaudio_fall23.pdf) |
 
 
 ## Homeworks
-
 | Homework | Date | Deadline | Description | Link |
 |---------|------|-------------|--------|-------|
-| 1 | Nov, 24 | Dec, 15 | Implement [FastSpeech](https://arxiv.org/pdf/1905.09263.pdf) | [description](HW1.md) |
+| 1 | TBA |  | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw1/) |
+| 2 | TBA |  | ASR-1: CTC |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw2/)  |
+| 3 | TBA | | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/) |
+| 4 | TBA |  | Text-to-speech: FastPitch | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw4/) |
+
+## Game rules
+- 4 homeworks each of 2 points = **8 points**
+- final test = **2 points**
+- maximum points: 8 + 2 = **10 points**
+
+## Authors
+
+Pavel Severilov
+- **telegram:** [@severilov](https://t.me/severilov)
+- **e-mail:** pseverilov@gmail.com
+
+Daniel Knyazev
+- **telegram:** [@Oorgien](https://t.me/Oorgien)
+- **e-mail:** xmaximuskn@gmail.com
