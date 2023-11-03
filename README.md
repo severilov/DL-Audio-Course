@@ -21,9 +21,9 @@ Topics discussed in course:
 | 3 | September, 28 | <b>Seminar 1:</b> Introduction, Spectrograms and Griffin-Lim | [notebook](seminars/seminar1/seminar1.ipynb) | [video](https://youtu.be/hYCl2FFPRfY) |
 | 4 | October, 5 | <b>Seminar 2:</b> Levenstein distance, WER, CER | [notebook](seminars/seminar2/seminar2.ipynb) | [video](https://youtu.be/ZDqU5FxZkDk) |
 | 5 | October, 12 | <b>Lecture 3:</b> Automatic Speech Recognition 2: RNN-T, Conformer, Whisper, Language models in ASR, BPE | [slides](lectures/lecture03_dlaudio_fall23.pdf) | [video]() |
-| 6 | October, 19 | <b>Seminar 3: CTC, Beam Search </b>  | [notebook](seminars/seminar3/seminar3.ipynb) | [video]() |
-| 7 | October, 26 | <b>Lecture 4:</b> Key-word spotting (KWS) | [slides](lectures/lecture04_dlaudio_fall23.pdf) | [video]() |
-| 8 | November, 2 | <b>Lecture 5:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention | [slides](lectures/lecture05_dlaudio_fall23.pdf) | [video]() |
+| 6 | October, 19 | <b>Seminar 3: CTC, Beam Search </b>  | [notebook](seminars/seminar3/seminar3.ipynb) | [video](https://youtu.be/O2MwFbck0GU?si=eHnJV4ymV_qC2nJP) |
+| 7 | October, 26 | <b>Lecture 4:</b> Key-word spotting (KWS) | [slides](lectures/lecture04_dlaudio_fall23.pdf) | [video](https://youtu.be/kT8wk996uHQ?si=I5-eXIE0ot6phmyo) |
+| 8 | November, 2 | <b>Lecture 5:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention | [slides](lectures/lecture05_dlaudio_fall23.pdf) | [video](https://youtu.be/lTW7mkm-MUw?si=w2ZZNzSD-NovtEkc) |
 | 9 | November, 9 | <b>Seminar 4: </b>  ASR: RNN-T | [notebook](seminars/seminar4/seminar4.ipynb) | [video]() |
 | 10 | November, 16 | <b>Seminar 5:</b>  Text-to-speech: Tacotron2 | [notebook](seminars/seminar5/seminar5.ipynb) | [video]() |
 | 11 | November, 23 | <b>Lecture 6:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave) | [slides](lectures/lecture06_dlaudio_fall23.pdf) | [video]() |
@@ -43,9 +43,9 @@ Topics discussed in course:
 | Homework | Date | Deadline | Description | Link |
 |---------|------|-------------|--------|-------|
 | 1 | October, 8 | October, 22 | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw1/) |
-| 2 | October, 22 | November, 6 | ASR-1: CTC |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw2/)  |
-| 3 | November, 6 | November, 20 | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/) |
-| 4 | November, 20 | December, 4 | Text-to-speech: FastPitch | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw4/) |
+| 2 | November, 3 | November, 18 | ASR-1: CTC |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw2/)  |
+| 3 | November, 3 | December, 3 | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/) |
+| [Additional] | |  | Text-to-speech: FastPitch | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw4/) |
 
 ## Game rules
 - 4 homeworks each of 2 points = **8 points**
