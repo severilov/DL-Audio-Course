@@ -24,14 +24,14 @@ Topics discussed in course:
 | 6 | October, 19 | <b>Seminar 3: CTC, Beam Search </b>  | [notebook](seminars/seminar3/seminar3.ipynb) | [video](https://youtu.be/O2MwFbck0GU?si=eHnJV4ymV_qC2nJP) |
 | 7 | October, 26 | <b>Lecture 4:</b> Key-word spotting (KWS) | [slides](lectures/lecture04_dlaudio_fall23.pdf) | [video](https://youtu.be/kT8wk996uHQ?si=I5-eXIE0ot6phmyo) |
 | 8 | November, 2 | <b>Lecture 5:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention | [slides](lectures/lecture05_dlaudio_fall23.pdf) | [video](https://youtu.be/lTW7mkm-MUw?si=w2ZZNzSD-NovtEkc) |
-| 9 | November, 9 | <b>Seminar 4: </b>  ASR: RNN-T | [notebook](seminars/seminar4/seminar4.ipynb) | [video]() |
-| 10 | November, 16 | <b>Seminar 5:</b>  Text-to-speech: Tacotron2 | [notebook](seminars/seminar5/seminar5.ipynb) | [video]() |
+| 9 | November, 9 | <b>Seminar 4: </b>  Key-word spotting | [notebook](seminars/seminar4/seminar4.ipynb) | [video](https://youtu.be/vuBNmcr_o6Q?si=vRXV8cWACtTUffJL) |
+| 10 | November, 16 | <b>Seminar 5:</b>  Text-to-speech: Tacotron2 | [notebook](seminars/seminar5/seminar5.ipynb) | [video](https://youtu.be/fxdL1MGMW-s?si=XVF1S5hZkAGqKl57) |
 | 11 | November, 23 | <b>Lecture 6:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave) | [slides](lectures/lecture06_dlaudio_fall23.pdf) | [video]() |
 | 12 | November, 30 | <b>Lecture 7:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC | [slides](lectures/lecture07_dlaudio_fall23.pdf) | [video]() |
 | 13 | December, 7 | <b>Lecture 8:</b> Self-supervised learning in Audio | [slides](lectures/lecture08_dlaudio_fall23.pdf) | [video]() |
 | -- | [Additional] December, ? | <b>Lecture 9:</b> Speaker verification and identification | [slides](lectures/lecture09_dlaudio_fall23.pdf) | [video]() |
 | -- | [Additional] December, ? | <b>Lecture 10:</b> Music Generation | [slides](lectures/lecture10_dlaudio_fall23.pdf) | [video]() |
-| -- | [Additional] December, ? | <b>Seminar 6:</b> Key-word spotting | [notebook](seminars/seminar6/seminar6.ipynb) | [video]() | [video]() |
+| -- | [Additional] December, ? | <b>Seminar 6:</b> ASR: RNN-T | [notebook](seminars/seminar6/seminar6.ipynb) | [video]() | [video]() |
 | -- | [Additional] December, ? | <b>Seminar 7:</b> Wavenet | [notebook](seminars/seminar7/seminar7.ipynb) | [video]() | [video]() |
 | -- | [Additional] December, ? | <b>Seminar 8:</b> Advanced Vocoders | [notebook](seminars/seminar8/seminar8.ipynb) | [video]() | [video]() |
 | -- | [Additional] December, ? | <b>Seminar 9:</b> Hi-Fi GAN | [notebook](seminars/seminar9/seminar9.ipynb) | [video]() | [video]() |
