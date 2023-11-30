@@ -8,8 +8,8 @@ Topics discussed in course:
 - Key-word spotting (KWS)
 - Text-to-Speech (TTS)
 - Voice Conversion
-- Music Generation with NNs
 - Unsupervised learning in Audio
+- Music Generation with NNs
 
 ## Course materials
 ## Materials
@@ -26,8 +26,8 @@ Topics discussed in course:
 | 8 | November, 2 | <b>Lecture 5:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention | [slides](lectures/lecture05_dlaudio_fall23.pdf) | [video](https://youtu.be/lTW7mkm-MUw?si=w2ZZNzSD-NovtEkc) |
 | 9 | November, 9 | <b>Seminar 4: </b>  Key-word spotting | [notebook](seminars/seminar4/seminar4.ipynb) | [video](https://youtu.be/vuBNmcr_o6Q?si=vRXV8cWACtTUffJL) |
 | 10 | November, 16 | <b>Seminar 5:</b>  Text-to-speech: Tacotron2 | [notebook](seminars/seminar5/seminar5.ipynb) | [video](https://youtu.be/fxdL1MGMW-s?si=XVF1S5hZkAGqKl57) |
-| 11 | November, 23 | <b>Lecture 6:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave) | [slides](lectures/lecture06_dlaudio_fall23.pdf) | [video]() |
-| 12 | November, 30 | <b>Lecture 7:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC | [slides](lectures/lecture07_dlaudio_fall23.pdf) | [video]() |
+| 11 | November, 23 | <b>Lecture 6:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave) | [slides](lectures/lecture06_dlaudio_fall23.pdf) | [video](https://youtu.be/Cdgb-N3ZV6A?si=WN2SwlEvvZ-iYV8v) |
+| 12 | November, 30 | <b>Lecture 7:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC | [slides](lectures/lecture07_dlaudio_fall23.pdf) | [video](https://www.youtube.com/watch?v=rxwEttrHwDs) |
 | 13 | December, 7 | <b>Lecture 8:</b> Self-supervised learning in Audio | [slides](lectures/lecture08_dlaudio_fall23.pdf) | [video]() |
 | -- | [Additional] December, ? | <b>Lecture 9:</b> Speaker verification and identification | [slides](lectures/lecture09_dlaudio_fall23.pdf) | [video]() |
 | -- | [Additional] December, ? | <b>Lecture 10:</b> Music Generation | [slides](lectures/lecture10_dlaudio_fall23.pdf) | [video]() |
