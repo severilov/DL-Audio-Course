@@ -20,7 +20,7 @@ Topics discussed in course:
 | 2 | September, 21 | <b>Lecture 2:</b> Automatic Speech Recognition 1: WER, CTC, LAS, Beam Search | [slides](lectures/lecture02_dlaudio_fall23.pdf) | [video](https://youtu.be/rt4-cYQnr7w) |
 | 3 | September, 28 | <b>Seminar 1:</b> Introduction, Spectrograms and Griffin-Lim | [notebook](seminars/seminar1/seminar1.ipynb) | [video](https://youtu.be/hYCl2FFPRfY) |
 | 4 | October, 5 | <b>Seminar 2:</b> Levenstein distance, WER, CER | [notebook](seminars/seminar2/seminar2.ipynb) | [video](https://youtu.be/ZDqU5FxZkDk) |
-| 5 | October, 12 | <b>Lecture 3:</b> Automatic Speech Recognition 2: RNN-T, Conformer, Whisper, Language models in ASR, BPE | [slides](lectures/lecture03_dlaudio_fall23.pdf) | [video]() |
+| 5 | October, 12 | <b>Lecture 3:</b> Automatic Speech Recognition 2: RNN-T, Conformer, Whisper, Language models in ASR, BPE | [slides](lectures/lecture03_dlaudio_fall23.pdf) | [video](https://youtu.be/eF1fSip2IaE?si=caEaCrTiLcMcMxdy) |
 | 6 | October, 19 | <b>Seminar 3: CTC, Beam Search </b>  | [notebook](seminars/seminar3/seminar3.ipynb) | [video](https://youtu.be/O2MwFbck0GU?si=eHnJV4ymV_qC2nJP) |
 | 7 | October, 26 | <b>Lecture 4:</b> Key-word spotting (KWS) | [slides](lectures/lecture04_dlaudio_fall23.pdf) | [video](https://youtu.be/kT8wk996uHQ?si=I5-eXIE0ot6phmyo) |
 | 8 | November, 2 | <b>Lecture 5:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention | [slides](lectures/lecture05_dlaudio_fall23.pdf) | [video](https://youtu.be/lTW7mkm-MUw?si=w2ZZNzSD-NovtEkc) |
