@@ -28,15 +28,7 @@ Topics discussed in course:
 | 10 | November, 16 | <b>Seminar 5:</b>  Text-to-speech: Tacotron2 | [notebook](seminars/seminar5/seminar5.ipynb) | [video](https://youtu.be/fxdL1MGMW-s?si=XVF1S5hZkAGqKl57) |
 | 11 | November, 23 | <b>Lecture 6:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave) | [slides](lectures/lecture06_dlaudio_fall23.pdf) | [video](https://youtu.be/Cdgb-N3ZV6A?si=WN2SwlEvvZ-iYV8v) |
 | 12 | November, 30 | <b>Lecture 7:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC | [slides](lectures/lecture07_dlaudio_fall23.pdf) | [video](https://www.youtube.com/watch?v=rxwEttrHwDs) |
-| 13 | December, 7 | <b>Lecture 8:</b> Self-supervised learning in Audio | [slides](lectures/lecture08_dlaudio_fall23.pdf) | [video]() |
-| -- | [Additional] December, ? | <b>Lecture 9:</b> Speaker verification and identification | [slides](lectures/lecture09_dlaudio_fall23.pdf) | [video]() |
-| -- | [Additional] December, ? | <b>Lecture 10:</b> Music Generation | [slides](lectures/lecture10_dlaudio_fall23.pdf) | [video]() |
-| -- | [Additional] December, ? | <b>Seminar 6:</b> ASR: RNN-T | [notebook](seminars/seminar6/seminar6.ipynb) | [video]() | [video]() |
-| -- | [Additional] December, ? | <b>Seminar 7:</b> Wavenet | [notebook](seminars/seminar7/seminar7.ipynb) | [video]() | [video]() |
-| -- | [Additional] December, ? | <b>Seminar 8:</b> Advanced Vocoders | [notebook](seminars/seminar8/seminar8.ipynb) | [video]() | [video]() |
-| -- | [Additional] December, ? | <b>Seminar 9:</b> Hi-Fi GAN | [notebook](seminars/seminar9/seminar9.ipynb) | [video]() | [video]() |
-| -- | [Additional] December, ? | <b>Seminar 10:</b> Speaker verification | [notebook](seminars/seminar10/seminar10.ipynb) | [video]() | [video]() |
-
+| 13 | December, 7 | <b>Lecture 8:</b> Self-supervised learning in Audio | [slides](lectures/lecture08_dlaudio_fall23.pdf) | [video](https://youtu.be/DJsDQ1W0f_g?si=YAgxmISkH_rx3Osw) |
 
 
 ## Homeworks
