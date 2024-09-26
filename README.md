@@ -43,12 +43,19 @@ Topics discussed in course:
 - final test = **2 points**
 - maximum points: 8 + 2 = **10 points**
 
-## Authors
+## Contributors & course staff
 
+Author + Lectures:
 Pavel Severilov
 - **telegram:** [@severilov](https://t.me/severilov)
 - **e-mail:** pseverilov@gmail.com
 
+Seminars:
+Viacheslav Shokorov
+- **telegram:** [@vshokorov](https://t.me/vshokorov)
+- **e-mail:** shokorov.va@phystech.edu
+
+Help build course materials and held seminars
 Daniel Knyazev
 - **telegram:** [@Oorgien](https://t.me/Oorgien)
 - **e-mail:** xmaximuskn@gmail.com
