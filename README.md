@@ -35,8 +35,8 @@ Topics discussed in course:
 |---------|------|-------------|--------|-------|
 | 1 | September, 30 | October, 14 | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw1/) |
 | 2 | September, 30 | October, 28 | ASR-1: CTC |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw2/)  |
-| 3 | October, 28 | November, 11 | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/) |
-| 4 | October, 28 | November, 25 | Text-to-speech: FastPitch | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw4/) |
+| 3 | November, 11 | November, 25 | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/) |
+| 4 | November, 11 | December, 9 | Text-to-speech: FastPitch | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw4/) |
 
 ## Game rules
 - 4 homeworks each of 2 points = **8 points**
