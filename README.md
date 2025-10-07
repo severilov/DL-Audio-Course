@@ -1,5 +1,6 @@
 ![logo](./logo.png)
 # Deep Learning for Audio Course, Fall 2024
+# ⭐⭐⭐ Go here for more actual materials (2025-2026): https://github.com/severilov/DL-Audio-AIMasters-Course ⭐⭐⭐
 
 ## Description
 Topics discussed in course:
